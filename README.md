@@ -1,2 +1,2 @@
 # SNES-55x
-A Brazillian SNES Emulator
+# A Brazillian SNES Emulator
